@@ -4,7 +4,7 @@ Made a Red Ball  game with  the help of matter.js. It's simply awesome. Matter.j
 
 
 
-Link for the game:-
+Link for the game:-https://riddhijit2702.github.io/Angry-Ball-Go-2d/
 
 
 
