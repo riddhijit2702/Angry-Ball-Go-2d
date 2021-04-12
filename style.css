@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+
+.aboutLink:hover{
+color: limegreen;
+border: solid dotted red;
+
+}
